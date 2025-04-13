@@ -53,7 +53,7 @@ article > div.text{
 
 }
 article > div.media{
-    flex: 1 0 400px;
+    flex: 1 0;
 }
 div.media > img{
     display: block;
